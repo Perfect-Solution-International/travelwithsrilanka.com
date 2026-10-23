@@ -1,0 +1,32 @@
+[
+  {
+    "id": "REV-201",
+    "name": "Charlotte & Edward Davies",
+    "country": "United Kingdom",
+    "trip": "10-Day Grand Ceylon Odyssey",
+    "rating": 5,
+    "text": "Travel with Sri Lanka crafted the most unbelievable 10-day honeymoon for us. Our driver Kamal was an absolute gentleman and showed us secret viewpoints in Ella. The tea plantation villa was pure heaven!",
+    "status": "approved",
+    "createdAt": "2026-10-05T09:00:00.000Z"
+  },
+  {
+    "id": "REV-202",
+    "name": "Jean-Paul Moreau",
+    "country": "France",
+    "trip": "Wild Ceylon & Safari Expedition",
+    "rating": 5,
+    "text": "Exceptional private jeeps and trackers. We spotted 3 leopards in Yala in a single morning. Truly 5-star service and spotless luxury van.",
+    "status": "approved",
+    "createdAt": "2026-10-08T11:20:00.000Z"
+  },
+  {
+    "id": "REV-203",
+    "name": "Elena Rostova",
+    "country": "Switzerland",
+    "trip": "Misty Highlands & Scenic Rails",
+    "rating": 5,
+    "text": "Very polite driver, always punctual and discreet. The 1st class train tickets through the hills was the highlight of our vacation.",
+    "status": "pending",
+    "createdAt": "2026-10-12T07:45:00.000Z"
+  }
+]

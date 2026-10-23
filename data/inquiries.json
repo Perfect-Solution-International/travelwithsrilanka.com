@@ -1,0 +1,72 @@
+[
+  {
+    "id": "INQ-5293",
+    "name": "jane",
+    "email": "jane@xyz.com",
+    "phone": "01258781577",
+    "country": "Sri Lanka",
+    "date": "2026-10-06",
+    "travelers": 2,
+    "package": "The Grand Ceylon Odyssey (10D/9N)",
+    "notes": "",
+    "status": "pending",
+    "estimatedValue": 1700,
+    "createdAt": "2026-10-23T04:29:14.325Z"
+  },
+  {
+    "id": "INQ-1001",
+    "name": "David & Sarah Miller",
+    "email": "david.miller@uktravels.co.uk",
+    "phone": "+44 7911 123456",
+    "country": "United Kingdom",
+    "date": "2026-11-15",
+    "travelers": 2,
+    "package": "The Grand Ceylon Odyssey (10D/9N)",
+    "notes": "Celebrating our 10th anniversary. We would love a private pool villa in Mirissa and 1st class train seats from Kandy to Ella. Prefer vegetarian food options.",
+    "status": "pending",
+    "estimatedValue": 2700,
+    "createdAt": "2026-10-12T10:15:00.000Z"
+  },
+  {
+    "id": "INQ-1002",
+    "name": "Dr. Markus Becker",
+    "email": "m.becker@munich-photo.de",
+    "phone": "+49 170 9876543",
+    "country": "Germany",
+    "date": "2026-12-04",
+    "travelers": 4,
+    "package": "Wild Ceylon & Safari Expedition (6D/5N)",
+    "notes": "Wildlife photography trip. Need private 4x4 jeeps in Yala with experienced leopard spotter. Bringing heavy camera gear.",
+    "status": "contacted",
+    "estimatedValue": 3560,
+    "createdAt": "2026-10-11T16:40:00.000Z"
+  },
+  {
+    "id": "INQ-1003",
+    "name": "Liam & Chloe O'Connor",
+    "email": "liam.oconnor@dublinmail.ie",
+    "phone": "+353 87 123 4567",
+    "country": "Ireland",
+    "date": "2026-11-28",
+    "travelers": 2,
+    "package": "Tropical Romance & Honeymoon (7D/6N)",
+    "notes": "Honeymoon escape. Please arrange candlelit dinner on the beach and colonial planter bungalow high tea.",
+    "status": "confirmed",
+    "estimatedValue": 2240,
+    "createdAt": "2026-10-10T14:20:00.000Z"
+  },
+  {
+    "id": "INQ-1004",
+    "name": "Alexander Wright",
+    "email": "alex.wright@sydneyventures.com.au",
+    "phone": "+61 412 345 678",
+    "country": "Australia",
+    "date": "2027-01-10",
+    "travelers": 6,
+    "package": "Custom Plan: 12 Days for 6 Guests",
+    "notes": "Family holiday with grandparents. Need executive high-roof VIP van with easy step-in access. Relaxed travel pace with no rush.",
+    "status": "pending",
+    "estimatedValue": 7800,
+    "createdAt": "2026-10-12T08:30:00.000Z"
+  }
+]
